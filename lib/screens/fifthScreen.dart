@@ -15,7 +15,7 @@ class FifthScreen extends StatelessWidget {
             floating: true,
             expandedHeight: 160.0,
             flexibleSpace: const FlexibleSpaceBar(
-              title: Text('Bitcoin Duka'),
+              title: Text('personal profile'),
               background: FlutterLogo(),
             ),
           ),

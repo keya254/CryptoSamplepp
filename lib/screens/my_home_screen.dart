@@ -36,7 +36,7 @@ class _MyHomeScreenState extends State<MyHomeScreen> {
       bottomNavigationBar: BottomNavigationBar(
         items: const <BottomNavigationBarItem>[
           BottomNavigationBarItem(
-            icon: Icon(Icons.stairs),
+            icon: Icon(Icons.graphic_eq),
             label: 'Market',
           ),
            BottomNavigationBarItem(
@@ -44,7 +44,7 @@ class _MyHomeScreenState extends State<MyHomeScreen> {
             label: 'buy',
           ),
            BottomNavigationBarItem(
-            icon: Icon(Icons.sell_outlined),
+            icon: Icon(Icons.attach_money),
             label: 'Sell',
           ),
           BottomNavigationBarItem(
